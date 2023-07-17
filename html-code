@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Przykładowa strona HTML</title>
+</head>
+<body>
+    <h1>Tytuł strony</h1>
+    <p>Witaj, to jest akapit na stronie internetowej!</p>
+</body>
+</html>
