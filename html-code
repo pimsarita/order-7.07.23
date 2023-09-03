@@ -4,7 +4,11 @@
     <title>Przykładowa strona HTML</title>
 </head>
 <body>
-    <h1>Tytuł strony</h1>
-    <p>Witaj, to jest akapit na stronie internetowej!</p>
+    <h1 id="title">Tytuł strony</h1>
+    <p id="paragraph">Witaj, to jest akapit na stronie internetowej!</p>
+    <script>
+        document.getElementById("title").innerHTML = "Nowy tytuł strony";
+        document.getElementById("paragraph").innerHTML = "To jest nowy akapit na stronie internetowej!";
+    </script>
 </body>
 </html>
