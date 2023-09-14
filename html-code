@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Przykładowa strona HTML</title>
+    <title>Przykładowi strona HTML</title>
 </head>
 <body>
     <h1 id="title">Tytuł strony</h1>
