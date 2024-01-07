@@ -1,7 +1,7 @@
 HTML Projects Repository
 Welcome to the HTML Projects repository! This repository is dedicated to the development of various HTML projects, where you can find a collection of web-based projects built using HTML, CSS, and JavaScript.
 
-Introduction
+Introduction and guide
 HTML is the foundation of web development, and this repository serves as a hub for various web projects showcasing the power and versatility of HTML in creating interactive and user-friendly websites. Whether you're a beginner looking to learn HTML or an experienced developer seeking inspiration, you'll find a wide range of projects to explore and contribute to.
 
 Getting Started
